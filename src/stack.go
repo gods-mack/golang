@@ -10,7 +10,6 @@ type node struct {
 
 type stack struct {
 	top *node
-	head *node
 }
 
 
